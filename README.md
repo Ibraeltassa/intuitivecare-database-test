@@ -1,4 +1,4 @@
-# 📊 Teste de Banco de Dados - IntuitiveCare
+# Teste de Banco de Dados - IntuitiveCare
 
 Este repositório contém a solução para o desafio de **Banco de Dados** do processo seletivo da **IntuitiveCare**.
 
